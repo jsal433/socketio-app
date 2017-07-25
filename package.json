@@ -1,0 +1,25 @@
+{
+  "name": "socketio-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsal433/socketio-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsal433/socketio-app/issues"
+  },
+  "homepage": "https://github.com/jsal433/socketio-app#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "open": "0.0.5",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
+}
